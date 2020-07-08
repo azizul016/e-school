@@ -28,8 +28,8 @@ span{
     background: #21B573;
     border-radius: 40px;
 }
-.sign-in:hover a{
-    color: red;
+.nav-item:hover  .sign-in{
+    color: #ffffff !important;;
 }
 .color-red{
     color: #FB6735;
@@ -69,7 +69,7 @@ span{
 .calander-people-images img{
     width: 30px;
 }
-.card{
+.box-shadow{
     border: none;
     background-color:#ffffff;
     box-shadow: 0 0 20px #c9c4c4;
@@ -107,14 +107,13 @@ span{
     margin-top: 60px;
 }
 .image-style img{
-    border: none;
-    background-color:#ffffff;
-    box-shadow: 0 0 20px #c9c4c4;    
+    width: 100%;
+    border: none;   
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 .border-radius{
-    border-radius: 20px!important;
+    border-radius: 15px!important;
 }
 .social-link{
     margin: 0 auto;
@@ -132,4 +131,8 @@ span{
 
 
 
+
+.card-img-padding{
+    padding: 10px;
+}
 
