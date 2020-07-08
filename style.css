@@ -27,6 +27,7 @@ span{
     color: #ffffff;
     background: #21B573;
     border-radius: 40px;
+    text-align: center;
 }
 .nav-item:hover  .sign-in{
     color: #ffffff !important;;
@@ -73,8 +74,8 @@ span{
 .calander-people-images img{
     width: 30px;
 }
-.card-img-padding{
-    padding: 10px;
+.card-img-padding img{
+    padding: 15px;
 }
 .box-shadow{
     border: none;
@@ -120,7 +121,8 @@ span{
     border-radius: 5px;
 }
 .border-radius{
-    border-radius: 15px!important;
+    border-radius: 6px!important;
+    margin-bottom: 10px!important;
 }
 .social-link{
     margin: 0 auto;
