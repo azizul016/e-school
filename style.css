@@ -48,14 +48,14 @@ span{
     padding-bottom: 20px;
     margin-bottom: 50px;
 }
-.images-width{
-    width: 80px;
-}
 .logo-style{
     width: 200px;
 }
-.padding-both{
+.padding-img{
     padding: 30px;
+}
+.img-hover img{
+    width: 80px;
 }
 .img-hover{
     background-color: #F8FFFB;
@@ -68,6 +68,9 @@ span{
 }
 .calander-people-images img{
     width: 30px;
+}
+.card-img-padding{
+    padding: 10px;
 }
 .box-shadow{
     border: none;
@@ -128,11 +131,3 @@ span{
     border-radius: 50%;
     padding: 15px;
 }
-
-
-
-
-.card-img-padding{
-    padding: 10px;
-}
-
