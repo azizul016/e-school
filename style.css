@@ -66,6 +66,10 @@ span{
     box-shadow: 0 0 15px #EAEAEA;
     padding: 40px;
 }
+.fixed-height img{
+    width: 73px;
+    height: 85px;
+}
 .calander-people-images img{
     width: 30px;
 }
