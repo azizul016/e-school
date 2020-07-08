@@ -1,0 +1,135 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+a:hover{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+h3,h5{
+    color: #413960;
+    font-weight: 500;
+}
+span{
+    color: #21B573;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link{
+    font-weight: 600;
+    font-size: 16px;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    color: #21B573;
+}
+.sign-in{
+    color: #ffffff;
+    background: #21B573;
+    border-radius: 40px;
+}
+.sign-in:hover a{
+    color: red;
+}
+.color-red{
+    color: #FB6735;
+}
+.change-color a,{
+    text-decoration: none;
+}
+.button-link{
+    background-color: #21B573;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+}
+.banner-bg{
+    background-color: #F0FFF0;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+.images-width{
+    width: 80px;
+}
+.logo-style{
+    width: 200px;
+}
+.padding-both{
+    padding: 30px;
+}
+.img-hover{
+    background-color: #F8FFFB;
+    padding: 40px;
+}
+.img-hover:hover{
+    background-color: #ffffff;
+    box-shadow: 0 0 15px #EAEAEA;
+    padding: 40px;
+}
+.calander-people-images img{
+    width: 30px;
+}
+.card{
+    border: none;
+    background-color:#ffffff;
+    box-shadow: 0 0 20px #c9c4c4;
+}
+.card-footer{
+    border-top: none;
+    background: none;
+}
+.testimonial img{
+    width: 100px;
+}
+.container ul{
+    margin: 0;
+    padding: 0;
+}
+.container ul li{
+    list-style: none;
+}
+.container ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.color-white{
+    color: #ffffff;
+}
+.footer-bg{
+    background-color: #282531;
+    padding: 100px 0;
+    padding-bottom: 10px;
+}
+.footer-bg p, .footer-bg h3{
+    color: #ffffff;
+}
+.margin-top{
+    margin-top: 60px;
+}
+.image-style img{
+    border: none;
+    background-color:#ffffff;
+    box-shadow: 0 0 20px #c9c4c4;    
+    padding: 10px;
+    border-radius: 20px;
+}
+.border-radius{
+    border-radius: 20px!important;
+}
+.social-link{
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.social-link h1{
+    color: white;
+}
+.social-link img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+
+
+
